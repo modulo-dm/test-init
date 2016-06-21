@@ -1,0 +1,7 @@
+{
+  "modulesPath" : "modules",
+  "dependencies" : [
+
+  ],
+  "name" : "test-init"
+}

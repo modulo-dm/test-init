@@ -1,0 +1,6 @@
+# Add files for git to ignore
+
+# ...
+
+# Ignore for modulo dependencies
+modules
